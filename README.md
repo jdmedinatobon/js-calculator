@@ -1,2 +1,2 @@
-# js-calculator
+# Calculator
 Calculator Website Project using Javascript
